@@ -1,3 +1,6 @@
+My Crawler
+######################
+
 This project is a Scrapy crawler for english news.
 It includes news from websites such as huffingtonPost, Guardian, CNBC, ...
 
